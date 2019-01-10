@@ -1,0 +1,6 @@
+#written by FileProperties
+#Fri Jan 04 10:39:45 CST 2019
+day=4
+years=2018
+year=2019
+month=1

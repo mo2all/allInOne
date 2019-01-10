@@ -1,5 +1,8 @@
 package niuke.offer;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 /**
  * @Description 根据前序遍历和中序遍历，重建二叉树
  * @Author Skye
@@ -24,25 +27,35 @@ public class Solution4 {
           TreeNode right;
           TreeNode(int x) { val = x; }
       }
+
     public TreeNode reConstructBinaryTree(int [] pre,int [] in) {
-          TreeNode root = new TreeNode(pre[0]);
-          int partitionOfIn = pre[0];
-          int lo = 0; int hi = in.length;
-          //二分查找
-          int indexOfPartition,mid;
-          while (lo <= hi){
-             mid = (lo+hi)/2;
-            if (partitionOfIn > in[mid]) lo = mid;
-            else if (partitionOfIn < in[mid]) hi=mid;
-            else indexOfPartition = mid;
-          }
-
-return null;
-
+          if (pre == null) return null;
+        if (pre.length == 1) return new TreeNode(pre[0]);
+        if (in == null) return null;
+        TreeNode root = new TreeNode(pre[0]);
+        int index = indexOf(pre[0], in);
+        root.left = reConstructBinaryTree(subList(pre,1, index+1), subList(in,0,index));
+        root.right = reConstructBinaryTree(subList(pre,index+1, pre.length), subList(in, index+1,in.length));
+        return root;
     }
-    private int getIndex(int[] in, int lo, int hi, int cmp){
-return 0;
+    private int indexOf(int val, int[] arr) {
+        for(int i = 0; i < arr.length; i ++) {
+            if (val == arr[i]) return i;
+        }
+        return -1;
+    }
+    private int[] subList(int [] arr, int fromIndex, int toIndex ){
+          int[] result = new int[toIndex - fromIndex];
+          for (int i = 0; i < result.length; i ++){
+              result[i] = arr[i+fromIndex];
+          }
+          return result;
+    }
 
+    public static void main(String[] args) {
+        Solution4 s = new Solution4();
+        int result[] = s.subList(new int[]{1,2,3,4,5,6}, 1,5);
+        System.out.println(Arrays.toString(result));
     }
 
 }

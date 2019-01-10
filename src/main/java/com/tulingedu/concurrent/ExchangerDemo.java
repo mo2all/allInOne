@@ -12,11 +12,10 @@ import java.util.concurrent.Executors;
  **/
 public class ExchangerDemo {
     public static void main(String[] args) {
-        Exchanger<String> exchanger = new Exchanger<>();
+        final Exchanger<String> exchanger = new Exchanger<String>();
         ExecutorService threadPool = Executors.newCachedThreadPool();
         //绑架团伙
         threadPool.execute(new Runnable() {
-            @Override
             public void run() {
                 try {
                     long time  = (long) (Math.random()*10000);
@@ -31,7 +30,6 @@ public class ExchangerDemo {
         });
         //兰
         threadPool.execute(new Runnable() {
-            @Override
             public void run() {
                 try {
                     String returnData = exchanger.exchange("1000万");

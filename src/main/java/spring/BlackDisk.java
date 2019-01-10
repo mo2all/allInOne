@@ -12,7 +12,7 @@ public class BlackDisk implements CompactDisk {
         this.music = music;
     }
     public void play() {
-        System.out.println();
+        System.out.println(music);
     }
 
     public Music getMusic() {
