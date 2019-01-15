@@ -1,9 +1,7 @@
 package niuke.offer;
 
-import designPattern.chapter12.Main;
-import org.w3c.dom.NodeList;
 
-import java.util.List;
+import org.w3c.dom.NodeList;
 
 /**
  * @Description 反转链表
@@ -18,12 +16,22 @@ public class ReverseListSolution {
     public ListNode ReverseList(ListNode head) {
         if (head == null) return null;
         if (head.next == null) {
-            newHead = head;
-            return newHead;
+           return head;
         }
-        ReverseList(head.next);
-        head.next.next = head.next;
+        newHead = ReverseList(head.next);
+        head.next.next = head;
         head.next = null;
+        return newHead;
+    }
+    public ListNode ReverseList2(ListNode head) {
+        ListNode newHead = null;
+        ListNode currentHead = head;
+        while(currentHead != null) {
+            ListNode next = currentHead.next;
+            currentHead.next = newHead;
+            newHead = currentHead;
+            currentHead = next;
+        }
         return newHead;
     }
 
@@ -31,12 +39,14 @@ public class ReverseListSolution {
         long start =  System.currentTimeMillis();
         ReverseListSolution reverseList = new ReverseListSolution();
         ListNode head = new ListNode(1);
-        head.add(2).add(3).add(4).add(5);
+        head.add(2).add(3).add(4).add(5).add(6).add(7).add(8);
         head = reverseList.ReverseList(head);
         System.out.println(head.val);
-        for (int i = 0; i < 1000; i++);
+        head = reverseList.ReverseList2(head);
+        System.out.println(head.val);
         System.out.println((System.currentTimeMillis() - start));
     }
+
 }
 class ListNode {
     int val;

@@ -44,7 +44,7 @@ public class Test{
         Test.Plate<? extends Fruit> plate = new Test().new Plate<Apple>(new Test().new Apple());
         Fruit fruit = plate.getItem();
 
-        Test.Plate<? super Fruit> plateSuper = new Test().new Plate<>(new Test().new Fruit());
+        Test.Plate<? super Fruit> plateSuper = new Test().new Plate<Fruit>(new Test().new Apple());
         plateSuper.setItem(new Test().new Apple());
         plateSuper.setItem(new Test().new Banana());
     }

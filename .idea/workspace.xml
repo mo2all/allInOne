@@ -2,111 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ec60834-4f78-44b4-a830-4807ad1a96e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter1/FileIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter1/FileProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter10/Hand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter10/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter10/ProbStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter10/RandomStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter10/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter10/WinningStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter12/Border.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter12/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter12/FullBorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter12/MultiStringDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter12/SideBorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter12/StringDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter12/UpDownBorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter3/framework/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter3/framework/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter3/idcard/IdCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter3/idcard/IdCardFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter5/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter5/TicketMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter5/Triple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter7/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter7/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter7/HTMLBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter7/TextBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter9/CharDisplayImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter9/CountDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter9/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter9/DisplayImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter9/FileDisplayImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter9/IncreaseDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter9/RandomCountDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designPattern/chapter9/StringDisplayImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/LinkedList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/LinkedListDeleteEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/ReverseLinkedList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/general/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/general/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/general/Pear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/general/RedApple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview/general/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/niuke/offer/ReverseListSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/CDPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/start.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/niuke/offer/ConvertSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/niuke/offer/FindPathSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/niuke/offer/MergeSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/niuke/offer/MirrorSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/niuke/offer/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allInOne.iml" beforeDir="false" afterPath="$PROJECT_DIR$/allInOne.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/DefineHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/algorithm/factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/classloader/Demo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/classloader/MyClassLoader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/concurrent/CountDownDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/concurrent/CountDownDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/concurrent/CountDownDemo$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/concurrent/CountDownDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/concurrent/CyclicBarrierDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/concurrent/CyclicBarrierDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/concurrent/CyclicBarrierDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/concurrent/ExchangerDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/concurrent/ExchangerDemo$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/concurrent/ExchangerDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/concurrent/SemaphoreDemo$SemaphoreRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/concurrent/SemaphoreDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/nio/TraditionalSocketDemo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/com/tulingedu/nio/TraditionalSocketDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/niuke/offer/FibonacciSolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/niuke/offer/JumpFloorIISolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/niuke/offer/JumpFloorSolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/niuke/offer/NumberOf1Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/niuke/offer/ReOrderArraySolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/niuke/offer/RectCoverSolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/niuke/offer/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/niuke/offer/Solution3$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/niuke/offer/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/niuke/offer/Solution4$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/niuke/offer/Solution4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/niuke/offer/Solution5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/niuke/str/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/staticLearning.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/staticRef/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/staticRef/outterClassAndInnerClass$InnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/staticRef/outterClassAndInnerClass$staticInnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/staticRef/outterClassAndInnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/testThread$primeClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/testThread$primeRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/allInOne/testThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tulingedu/concurrent/ExchangerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tulingedu/concurrent/ExchangerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/niuke/offer/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/niuke/offer/Solution4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/BlackDisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring/BlackDisk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring/Music.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interview/general/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview/general/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/niuke/offer/ReverseListSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/niuke/offer/ReverseListSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interview/general/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interview/general/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/niuke/offer/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/niuke/offer/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/niuke/offer/ReverseListSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/niuke/offer/ReverseListSolution.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -135,106 +42,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter12/FullBorder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#144#145#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter12/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter12/MultiStringDisplay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/Solution5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/Solution4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/ReverseListSolution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="286">
+              <caret line="97" column="37" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/ArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interview/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="1000" column="19" selection-start-line="1000" selection-start-column="19" selection-end-line="1000" selection-end-column="19" />
+            <state relative-caret-position="152">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter12/SideBorder.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interview/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter12/UpDownBorder.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interview/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+            <state relative-caret-position="152">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter12/StringDisplay.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/interview/general/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="326">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -254,12 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/interview/LinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview/ReverseLinkedList2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview/ReverseLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview/LinkedListDeleteEqual.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview/LinkList2.java" />
         <option value="$PROJECT_DIR$/src/main/java/interview/LinkedList2.java" />
         <option value="$PROJECT_DIR$/src/main/java/interview/user.java" />
         <option value="$PROJECT_DIR$/src/main/java/interview/User.java" />
@@ -268,7 +110,6 @@
         <option value="$PROJECT_DIR$/src/main/java/interview/general/Pear.java" />
         <option value="$PROJECT_DIR$/src/main/java/interview/general/RedApple.java" />
         <option value="$PROJECT_DIR$/src/main/java/interview/general/Apple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview/general/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/designPattern/chapter1/FileIO.java" />
         <option value="$PROJECT_DIR$/src/main/java/designPattern/chapter1/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/designPattern/chapter1/FileProperties.java" />
@@ -305,12 +146,19 @@
         <option value="$PROJECT_DIR$/src/main/java/niuke/offer/Solution4.java" />
         <option value="$PROJECT_DIR$/src/main/java/niuke/offer/ReverseList.java" />
         <option value="$PROJECT_DIR$/src/main/java/niuke/offer/ReverseListSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/niuke/offer/MergeSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/niuke/offer/MirrorSolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/niuke/offer/FindPathSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/niuke/offer/ConvertSolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interview/general/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/niuke/offer/Tree.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="455" />
-    <option name="y" value="210" />
+    <option name="x" value="490" />
+    <option name="y" value="270" />
     <option name="width" value="1100" />
     <option name="height" value="1030" />
   </component>
@@ -322,7 +170,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -362,6 +209,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="allInOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allInOne" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="niuke" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -385,6 +240,12 @@
             </path>
             <path>
               <item name="allInOne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allInOne" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="allInOne" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -395,15 +256,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547111550913" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547555605498" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.608055" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -428,48 +290,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseListSolution">
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPattern.chapter10.Main" />
-      <module name="allInOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designPattern.chapter10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPattern.chapter12.Main" />
-      <module name="allInOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designPattern.chapter12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiStringDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designPattern.chapter12.MultiStringDisplay" />
-      <module name="allInOne" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designPattern.chapter12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseListSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niuke.offer.ReverseListSolution" />
+  <component name="RunManager" selected="Application.Tree">
+    <configuration name="ConvertSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niuke.offer.ConvertSolution" />
       <module name="allInOne" />
       <extension name="coverage">
         <pattern>
@@ -481,8 +304,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niuke.offer.Solution4" />
+    <configuration name="FindPathSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niuke.offer.FindPathSolution" />
       <module name="allInOne" />
       <extension name="coverage">
         <pattern>
@@ -490,24 +313,57 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.general.Test" />
+      <module name="allInOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.general.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niuke.offer.Tree" />
+      <module name="allInOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="niuke.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="allInOne" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.MultiStringDisplay" />
-      <item itemvalue="Application.Solution4" />
-      <item itemvalue="Application.ReverseListSolution" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.FindPathSolution" />
+      <item itemvalue="Application.ConvertSolution" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Tree" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseListSolution" />
-        <item itemvalue="Application.Solution4" />
-        <item itemvalue="Application.MultiStringDisplay" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Tree" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ConvertSolution" />
+        <item itemvalue="Application.FindPathSolution" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -540,19 +396,26 @@
       <workItem from="1546672620737" duration="3643000" />
       <workItem from="1546687716443" duration="10450000" />
       <workItem from="1547036793337" duration="4825000" />
-      <workItem from="1547086621480" duration="4112000" />
+      <workItem from="1547086621480" duration="11327000" />
+      <workItem from="1547173826743" duration="4245000" />
+      <workItem from="1547193669289" duration="968000" />
+      <workItem from="1547346004272" duration="3892000" />
+      <workItem from="1547378393243" duration="2388000" />
+      <workItem from="1547447905519" duration="3045000" />
+      <workItem from="1547470908649" duration="2460000" />
+      <workItem from="1547522085980" duration="9914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146309000" />
+    <option name="totallyTimeSpent" value="180436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.52097905" visible="true" weight="0.25536194" />
-      <window_info id="Structure" order="1" sideWeight="0.47902098" side_tool="true" visible="true" weight="0.25536194" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.72" visible="true" weight="0.27949062" />
+      <window_info id="Structure" order="1" sideWeight="0.28" side_tool="true" visible="true" weight="0.27949062" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -560,14 +423,14 @@
       <window_info id="Favorites" order="6" sideWeight="0.6635514" side_tool="true" weight="0.24865952" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3427762" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1898017" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.24787535" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36260623" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.14589235" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.20113315" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32294616" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.23937677" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -609,145 +472,40 @@
           <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/niuke/offer/MergeSolution.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/niuke/offer/MirrorSolution.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/niuke/offer/MirrorSolution.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/niuke/offer/MirrorSolution.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/niuke/offer/ConvertSolution.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter3/idcard/IdCardFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="26" column="25" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter3/idcard/IdCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter5/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter5/TicketMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Greeting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.io.PrintWriter">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.io.PrintWriter</OriginalElement>
-          <nodes>
-            <node x="" y="">java.io.PrintWriter</node>
-            <node x="" y="">java.lang.Appendable</node>
-            <node x="" y="">java.io.Closeable</node>
-            <node x="" y="">java.io.Writer</node>
-            <node x="" y="">java.lang.AutoCloseable</node>
-            <node x="" y="">java.io.Flushable</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="191.0" y="135.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter5/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter7/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter7/Director.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter7/HTMLBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/io/PrintWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/io/Writer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -1003,6 +761,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter12/MultiStringDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/Solution5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/Solution4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/ReverseListSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="62" selection-start-line="40" selection-start-column="7" selection-end-line="41" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5890">
+          <caret line="352" column="30" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter12/SideBorder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1024,49 +823,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designPattern/chapter12/MultiStringDisplay.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/MergeSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        <state relative-caret-position="209">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/MirrorSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" selection-start-line="9" selection-end-line="19" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/Solution5.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/FindPathSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
+        <state relative-caret-position="18012">
           <caret line="1000" column="19" selection-start-line="1000" selection-start-column="19" selection-end-line="1000" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/Solution4.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1482">
+          <caret line="101" column="44" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/ReverseListSolution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/ConvertSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="486">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/general/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/niuke/offer/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="97" column="37" selection-start-line="97" selection-start-column="37" selection-end-line="97" selection-end-column="37" />
         </state>
       </provider>
     </entry>
